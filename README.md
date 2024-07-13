@@ -24,7 +24,7 @@ This script automates the process of archiving private messages on Roblox using 
     ```
 
 3. **Set your Roblox Security Cookie**:
-    - Open the `script.py` file.
+    - Open the `main.py` file.
     - Replace the placeholder in the `cookie` variable with your actual Roblox security cookie.
 
 ## 📝 Usage
