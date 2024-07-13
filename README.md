@@ -31,7 +31,7 @@ This script automates the process of archiving private messages on Roblox using 
 
 1. **Run the script**:
     ```bash
-    python script.py
+    python main.py
     ```
 
 2. The script will continuously archive messages and update the console with the current status.
