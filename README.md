@@ -20,7 +20,7 @@ This script automates the process of archiving private messages on Roblox using 
 
 2. **Install dependencies**:
     ```bash
-    pip install requests termcolor
+    pip install -r req.txt
     ```
 
 3. **Set your Roblox Security Cookie**:
